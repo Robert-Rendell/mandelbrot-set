@@ -1,6 +1,6 @@
 Credits to https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set
 
-## Equation:
+## Equation
 - Z<sub>n+1</sub> = Z<sub>n</sub><sup>2</sup> + C
 
 ## Output
